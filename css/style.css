@@ -41,3 +41,11 @@
 .hero-unit {
   background-color: rgba(100, 100, 100, 0.1);
 }
+
+.hero-unit p {
+  text-indent: 2em;
+}
+
+.hero-unit h2 {
+  text-align: center;
+}
